@@ -12,6 +12,8 @@ pandas = "*"
 jupyterlab = "*"
 tqdm = "*"
 matplotlib = "*"
+psycopg2 = "*"
+seaborn = "*"
 
 [requires]
 python_version = "3.6"
