@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="java-io-decorator/src"/>
+	<classpathentry kind="src" path="padrao-adapter-e-facade/src"/>
+	<classpathentry kind="src" path="padrao-command/src"/>
+	<classpathentry kind="src" path="padrao-composite/src"/>
+	<classpathentry kind="src" path="padrao-decorator/src"/>
+	<classpathentry kind="src" path="padrao-factory-method-e-abstract-factory/src"/>
+	<classpathentry kind="src" path="padrao-iterator/src"/>
+	<classpathentry kind="src" path="padrao-observer/src"/>
+	<classpathentry kind="src" path="padrao-proxy/src"/>
+	<classpathentry kind="src" path="padrao-singleton/src"/>
+	<classpathentry kind="src" path="padrao-state/src"/>
+	<classpathentry kind="src" path="padrao-strategy/src"/>
+	<classpathentry kind="src" path="padrao-template-method/src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="padrao-template-method/bin"/>
+</classpath>
