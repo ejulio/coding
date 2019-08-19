@@ -2,5 +2,7 @@
 *.zip
 *.rtf
 
+data/
+
 .vscode
 .venv
